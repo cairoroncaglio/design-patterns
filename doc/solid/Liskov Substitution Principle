@@ -1,0 +1,10 @@
+Liskov Substituin Principle
+
+O princípio da substituição de Liskov tem um relacionamento próximo com a metodologia do projeto por contrato
+e coloca restrições na forma como os contratos interagem com o conceito de herança:
+
+precondições não podem ser reforçadas em uma sub-classe:
+Isto significa que não é permitida uma sub-classe com precondições mais fortes que a sua super-classe.
+
+condições posteriores não podem ser enfraquecidas em uma sub-classe:
+ Isto significa que não é permitida uma sub-classe que contém condições posteriores mais fracas que a super-classe.

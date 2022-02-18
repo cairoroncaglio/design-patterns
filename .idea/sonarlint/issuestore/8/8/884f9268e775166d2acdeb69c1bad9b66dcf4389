@@ -1,0 +1,6 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΘΫΪωÿÿÿÿ
+Z
+java:S1126"AReplace this if-then-else statement by a single return statement.(ώµττώÿÿÿÿ
+`
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(η…ξ

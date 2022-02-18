@@ -1,0 +1,18 @@
+Open Closed Principle:
+Na programação orientada a objeto,
+o princípio do open/closed estabelece que "entidades" (classes, módulos, funções, etc.)
+devem ser abertas para extensão, mas fechadas para modificação";
+Isto é, a entidade pode permitir que o seu comportamento seja estendido sem modificar seu código-fonte.
+
+O nome do princípio aberto/fechado tem sido usado de duas maneiras.
+Ambas as maneiras usam generalizações : herança , ou delegação de funções.
+
+Extensibilidade
+É uma das chaves da orientação a objetos, quando um novo comportamento ou
+funcionalidade precisar ser adicionado é esperado que as existentes sejam estendidas
+e não alteradas, assim o código original permanece intacto e confiável enquanto as novas são implementadas através de extensibilidade.
+
+Abstração
+Quando aprendemos sobre orientação a objetos com certeza ouvimos sobre abstração,
+é ela que permite que este princípio funcione.
+Se um software possui abstrações bem definidas logo ele estará aberto para extensão.

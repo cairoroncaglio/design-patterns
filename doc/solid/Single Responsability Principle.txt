@@ -1,0 +1,8 @@
+Single Responsability Principle:
+O princípio de responsabilidade única ( SRP ) é um princípio que afirma que
+-cada módulo,
+-classe ,
+-função
+deve ter responsabilidade sobre uma única parte da funcionalidade desse programa
+e deve encapsular essa parte. Todos os serviços desse módulo, classe ou função devem estar estreitamente alinhados
+com essa responsabilidade.
