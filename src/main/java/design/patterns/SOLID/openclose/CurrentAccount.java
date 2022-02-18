@@ -14,7 +14,6 @@ public class CurrentAccount extends Account {
 
     private Double limit;
     private Double amount;
-    private Double futureReleases;
 
     @Override
     public void Debitar(int valor) {

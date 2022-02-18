@@ -23,5 +23,3 @@ Tsrc/main/java/design/patterns/SOLID/singleresponsability/UserPersistenceService
 Ksrc/main/java/design/patterns/SOLID/singleresponsability/UserValidator.java,8\8\884f9268e775166d2acdeb69c1bad9b66dcf4389
 r
 Bsrc/main/java/design/patterns/SOLID/singleresponsability/User.java,8\8\8822ac87c920c3e6db9b5f23f6098901ea29cb49
-r
-Bsrc/main/java/design/patterns/SOLID/singleresponsability/Main.java,6\d\6d071df55c31e7fd3806ca23573319a609dbc1db
